@@ -1,0 +1,19 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jelle619.github.io" resolutions="1x" timestamp="1522180226845">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3882638935" ref="index"/>
+    <file name="dragon-projects.css" crc="3869447361" ref="dragon-projects"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:dragon-projects"/>
+    <file name="museutils.js" crc="17924269" ref="index:dragon-projects"/>
+    <file name="whatinput.js" crc="86476730" ref="index:dragon-projects"/>
+    <file name="museconfig.js" crc="144853533" ref="index:dragon-projects"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:dragon-projects"/>
+    <file name="require.js" crc="3861931657" ref="index:dragon-projects"/>
+  </folder>
+  <file name="index.html" crc="348105522" seo="true" mt="1522179652866" redirect="true"/>
+  <file name="dragon-projects.html" crc="397819279" seo="true" mt="1522180175021" redirect="true"/>
+</manifest>
